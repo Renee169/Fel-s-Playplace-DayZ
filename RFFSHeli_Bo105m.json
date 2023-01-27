@@ -1,0 +1,12 @@
+{
+    "VehicleName": "RFFSHeli_Bo105m",
+    "DisplayName": "",
+    "Parts": [
+        "HeadlightH7",
+        "HeadlightH7",
+        "RFFSHeli_hydraulic_hoses",
+        "RFFSHeli_wiring_harness",
+        "RFFSHeli_igniter_plug",
+        "RFFSHeli_aviation_battery"
+    ]
+}
