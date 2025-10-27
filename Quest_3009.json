@@ -1,0 +1,61 @@
+{
+    "ConfigVersion": 22,
+    "ID": 3009,
+    "Type": 1,
+    "Title": "Dubrovka Gifts",
+    "Descriptions": [
+        "The next package needs to be delivered to Dubrovka!",
+        "Deliver the next package to Dubrovka on time without dying.",
+        "You're crazy! Deliver the next package!"
+    ],
+    "ObjectiveText": "Deliver the next package to Dubrovka on time without dying.",
+    "FollowUpQuest": 3010,
+    "Repeatable": 1,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 1,
+    "CancelQuestOnPlayerDeath": 1,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [
+        {
+            "ClassName": "CP_MediumBox",
+            "Amount": 1
+        }
+    ],
+    "Rewards": [],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": 0,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [
+        208
+    ],
+    "QuestTurnInIDs": [
+        209
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 3009,
+            "ObjectiveType": 5
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": -1,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [
+        3008
+    ],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 0,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

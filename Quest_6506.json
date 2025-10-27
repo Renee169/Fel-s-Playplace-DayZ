@@ -1,0 +1,56 @@
+{
+    "ConfigVersion": 22,
+    "ID": 6506,
+    "Type": 1,
+    "Title": "Starting Over",
+    "Descriptions": [
+        "Had enough of your faction? Relax, for a fee you can reset your faction and choose another path. Is this what you want to do?",
+        "Choose wisely!",
+        "You can only choose one faction so choose wisely. Speak to me again when you are ready."
+    ],
+    "ObjectiveText": "Do you really want to reset your faction to 'Raiders'? This will reset your reputation but allow you to choose a different faction. If so bring Krusty 100,000 coins.",
+    "FollowUpQuest": -1,
+    "Repeatable": 1,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": 0,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [
+        999
+    ],
+    "QuestTurnInIDs": [
+        999
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 6506,
+            "ObjectiveType": 4
+        }
+	],
+    "QuestColor": 0,
+    "ReputationReward": -1,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [
+		6500
+	],
+    "RequiredFaction": "East, West, Civilian, Guards, Shaman, Passive",
+    "FactionReward": "Raiders",
+    "PlayerNeedQuestItems": 0,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 0,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 1,
+    "Active": 1
+}

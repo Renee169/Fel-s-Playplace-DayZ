@@ -1,0 +1,64 @@
+{
+    "ConfigVersion": 22,
+    "ID": 20000,
+    "Type": 1,
+    "Title": "Culling Former Contacts",
+    "Descriptions": [
+        "Wait! What's that sound? This place is not safe! There are other survivors that know of this place here and most are not so nice as you. Keep your weapon at the ready!",
+        "Kill the 3 attackers before they kill you!",
+        "Kill the 3 attackers before they kill you!"
+    ],
+    "ObjectiveText": "Kill the 3 attackers before they kill you!",
+    "FollowUpQuest": -1,
+    "Repeatable": 1,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 1,
+    "CancelQuestOnPlayerDeath": 1,
+    "Autocomplete": 1,
+    "IsGroupQuest": 1,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "ZenSleep_StimSyringe",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": 0,
+    "RewardsForGroupOwnerOnly": 0,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [
+        999
+    ],
+    "QuestTurnInIDs": [],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 20000,
+            "ObjectiveType": 7
+        }
+    ],
+    "QuestColor": -930200403,
+    "ReputationReward": -1,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [
+        500
+    ],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 0,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

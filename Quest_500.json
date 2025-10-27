@@ -1,0 +1,54 @@
+{
+    "ConfigVersion": 22,
+    "ID": 500,
+    "Type": 1,
+    "Title": "The Crass Clown",
+    "Descriptions": [
+        "Among the various lists and plant information you spot a note handwritten in red marker that says- HEY YOU, SURVIVOR! It's me Bobbo! I've gone out to look for jewels but if you're looking for some rewarding tasks you need to talk to Doctor Krustysov. He's stationed far to the southwest, near the Storozh Penitentiary. He sometimes uses the radio for emergencies. You can listen in on 99.7 FM. Be warned: These tasks are only for the bravest survivors! Don't go dying on us now!",
+        "Make your way to Doctor Krustysov without dying!",
+        "Make your way to Doctor Krustysov without dying!"
+    ],
+    "ObjectiveText": "Make your way to Doctor Krustysov without dying!",
+    "FollowUpQuest": -1,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 1,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": 0,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [
+        102
+    ],
+    "QuestTurnInIDs": [
+        999
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 500,
+            "ObjectiveType": 3
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": -1,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 0,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

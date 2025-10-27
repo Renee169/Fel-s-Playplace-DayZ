@@ -1,0 +1,54 @@
+{
+    "ConfigVersion": 22,
+    "ID": 5999,
+    "Type": 1,
+    "Title": "Fisherman's Friend",
+    "Descriptions": [
+        "There's some old demented fisherman near Kamyshovo who think's it's still 1980 and insists on hosting tourneys till he dies. The winners seem to be pleased enough, though.",
+        "Find out how to enroll yourself in the fishing tournament.",
+        "Find out how to enroll yourself in the fishing tournament.."
+    ],
+    "ObjectiveText": "Find out how to enroll yourself in the fishing tournament.",
+    "FollowUpQuest": -1,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": 0,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [
+        999
+    ],
+    "QuestTurnInIDs": [
+        300
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 5999,
+            "ObjectiveType": 3
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": -1,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 0,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

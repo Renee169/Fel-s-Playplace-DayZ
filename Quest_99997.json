@@ -1,0 +1,64 @@
+{
+    "ConfigVersion": 22,
+    "ID": 99997,
+    "Type": 1,
+    "Title": "Pizzaz",
+    "Descriptions": [
+        "Bwahahaha! You there! You look like the enterprising type! Ha! I'm giving you the once in a lifetime opportunity to be the new exclusive Krusty Pizzeria supplier! Bahahaha! *SNIFFFFF* I'm freakin' starving! In exchange for each pizza I will give you one Enchanted Bar that you can use to upgrade certain items! How's that for a deal? Ahahaha!",
+        "Bring Krusty a pizza.",
+        "Bring Krusty a pizza."
+    ],
+    "ObjectiveText": "Bring Krusty a pizza.",
+    "FollowUpQuest": -1,
+    "Repeatable": 1,
+    "IsDailyQuest": 1,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "FreezeBar_Enchanted",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": 1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [
+        999
+    ],
+    "QuestTurnInIDs": [
+        999
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 99997,
+            "ObjectiveType": 4
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": -1,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 0,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

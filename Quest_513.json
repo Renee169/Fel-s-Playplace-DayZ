@@ -1,0 +1,54 @@
+{
+    "ConfigVersion": 22,
+    "ID": 513,
+    "Type": 1,
+    "Title": "Oreshka Farm",
+    "Descriptions": [
+        "There's a small fading laminated poster affixed to the board that reads- HEY SURVIVOR! If you find this go to Oreshka Farm, an abandoned factory where some survivors are said to have eked it out. That's where I'm headed, my name is Bobbo, look for me there!",
+        "Investigate Oreshka Farm.",
+        "Investigate Oreshka Farm."
+    ],
+    "ObjectiveText": "Investigate Oreshka Farm.",
+    "FollowUpQuest": -1,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": 0,
+    "RewardsForGroupOwnerOnly": 0,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [
+        103
+    ],
+    "QuestTurnInIDs": [
+        102
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 513,
+            "ObjectiveType": 3
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 0,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

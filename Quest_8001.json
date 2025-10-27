@@ -1,0 +1,52 @@
+{
+    "ConfigVersion": 22,
+    "ID": 8001,
+    "Type": 1,
+    "Title": "Krona Castle",
+    "Descriptions": [
+        "Krona is the largest castle in the area, it's nestled on a cliffside overlooking a river valley making it very scenic too. Go have a look! Just don't get killed.",
+        "Find the entrance to Krona Castle.",
+        "Find the entrance to Krona Castle."
+    ],
+    "ObjectiveText": "Find the entrance to Krona Castle.",
+    "FollowUpQuest": 8002,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 1,
+    "Autocomplete": 1,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": 0,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [],
+    "QuestTurnInIDs": [],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 8001,
+            "ObjectiveType": 3
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": -1,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [
+        8000
+    ],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 0,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

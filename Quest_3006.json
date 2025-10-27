@@ -1,0 +1,61 @@
+{
+    "ConfigVersion": 22,
+    "ID": 3006,
+    "Type": 1,
+    "Title": "Novomitrovodsk Contraband",
+    "Descriptions": [
+        "The next package needs to be delivered to Novomitrovodsk!",
+        "Deliver the next package to Hazelands on time without dying.",
+        "That boy's a runnin' fool! Deliver the next package!"
+    ],
+    "ObjectiveText": "Deliver the next package to Novomitrovodsk on time without dying.",
+    "FollowUpQuest": 3007,
+    "Repeatable": 1,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 1,
+    "CancelQuestOnPlayerDeath": 1,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [
+        {
+            "ClassName": "CP_MediumBox",
+            "Amount": 1
+        }
+    ],
+    "Rewards": [],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": 0,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [
+        205
+    ],
+    "QuestTurnInIDs": [
+        206
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 3006,
+            "ObjectiveType": 5
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": -1,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [
+        3005
+    ],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 0,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

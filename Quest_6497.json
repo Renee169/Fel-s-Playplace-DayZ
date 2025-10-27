@@ -1,0 +1,58 @@
+{
+    "ConfigVersion": 22,
+    "ID": 6497,
+    "Type": 1,
+    "Title": "Any Famous Last Words?",
+    "Descriptions": [
+        "Fuck, %1, what have you done? Too late now, creature. Better run!",
+        "Choose wisely!",
+        "You have become an unforgivable creature."
+    ],
+    "ObjectiveText": "You have become an unforgivable creature. You leave me no choice.",
+    "FollowUpQuest": -1,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": 0,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [
+        999
+    ],
+    "QuestTurnInIDs": [
+        999
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 6499,
+            "ObjectiveType": 3
+        }
+	],
+    "QuestColor": 0,
+    "ReputationReward": -1,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [
+		6498
+	],
+    "RequiredFaction": "Raiders",
+    "FactionReward": "Shamans",
+    "PlayerNeedQuestItems": 0,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 0,
+    "FactionReputationRequirements": {
+		"Raiders": 100000
+	},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 1,
+    "Active": 1
+}

@@ -1,0 +1,56 @@
+{
+    "ConfigVersion": 22,
+    "ID": 6500,
+    "Type": 1,
+    "Title": "Consequential Choices",
+    "Descriptions": [
+        "Now that you are acquainted with our situation, you should put some thought into your future. Where in this reality do you fit in? You can have some control over your destiny. You can choose to remain unaffiliated but choosing a lifestyle will grant you perks you wouldn't otherwise have. Gunrunners are very common but it's especially dangerous. Hunters thrive in the wilderness but depend on prey for profit. Producers tend to be domestic but are important for sustenance. Technicians are the ones who keep all the machinery running but tend to be stuck indoors. Healers do their best to keep us alive against all odds and really know their nomenclature. When you choose a lifestyle all future reputation gains will go towards the new faction.",
+        "Choose wisely!",
+        "Once you choose your calling accept and complete the associated quest. You can only choose one lifestyle faction so choose wisely. Speak to me again when you are ready."
+    ],
+    "ObjectiveText": "You can only choose one lifestyle faction so choose wisely. Speak to me again when you are ready.",
+    "FollowUpQuest": -1,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": 0,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [
+        999
+    ],
+    "QuestTurnInIDs": [
+        999
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 6500,
+            "ObjectiveType": 3
+        }
+	],
+    "QuestColor": 0,
+    "ReputationReward": -1,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [
+		700
+	],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 0,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 0,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 1,
+    "Active": 1
+}

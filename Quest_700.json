@@ -1,0 +1,54 @@
+{
+    "ConfigVersion": 22,
+    "ID": 700,
+    "Type": 1,
+    "Title": "Welcome to DayZ!",
+    "Descriptions": [
+        "You're alive! And Simon says you like to do as you're told! Think of a good name for yourself, everyone left gets a fresh start now. What kind of person are you going to be? A brave vigilante, a thieving bandit, or a bumbling bambi? Maybe you'd prefer to be an infected? Test your mettle and get to the marker without dying! We're living in this game we call life and no one said it's fair.",
+        "Reach the marker without dying!",
+        "Reach the marker without dying!"
+    ],
+    "ObjectiveText": "Reach the marker without dying!",
+    "FollowUpQuest": -1,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 1,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": 0,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [],
+    "QuestTurnInIDs": [
+        103
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 700,
+            "ObjectiveType": 3
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": 1,
+    "PreQuestIDs": [
+        987654321
+    ],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 0,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 0,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

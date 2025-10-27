@@ -1,0 +1,56 @@
+{
+    "ConfigVersion": 22,
+    "ID": 6503,
+    "Type": 1,
+    "Title": "Producer At Heart",
+    "Descriptions": [
+        "Producers tend to be domestic but are important for sustenance. If you choose this faction you will ONLY be able to SELL food and crops for currency. ONLY Producers can BUY farming and cooking supplies. Each faction can also buy a unique outfit, and a unique vehicle, in addition to regular items. If you choose, you may give or sell these items to non-Producers. Would you like to become a Producer? Please note it will display as faction 'Civilian'.",
+        "Choose wisely!",
+        "Once you choose your calling select and accept the associated quest. You can only choose one faction so choose wisely. Speak to me again when you are ready."
+    ],
+    "ObjectiveText": "Would you like to become a Producer? Please note it will display as faction 'Civilian'.",
+    "FollowUpQuest": -1,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": 0,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [
+        999
+    ],
+    "QuestTurnInIDs": [
+        999
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 6500,
+            "ObjectiveType": 3
+        }
+	],
+    "QuestColor": 0,
+    "ReputationReward": -1,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [
+		6500
+	],
+    "RequiredFaction": "Raiders",
+    "FactionReward": "Civilian",
+    "PlayerNeedQuestItems": 0,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 0,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 1,
+    "Active": 1
+}
