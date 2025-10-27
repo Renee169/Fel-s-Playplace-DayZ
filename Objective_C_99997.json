@@ -1,0 +1,337 @@
+{
+    "ConfigVersion": 28,
+    "ID": 99997,
+    "ObjectiveType": 4,
+    "ObjectiveText": "Bring Krusty a pizza.",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Collections": [
+        {
+            "Amount": 1,
+            "ClassName": "Raz_Cheese_Pizza",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 100
+        },
+        {
+            "Amount": 1,
+            "ClassName": "Raz_Mushroom_Pizza",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 100
+        },
+        {
+            "Amount": 1,
+            "ClassName": "Raz_ChickenBreastMeat_Pizza",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 100
+        },
+        {
+            "Amount": 1,
+            "ClassName": "Raz_CowSteakMeat_Pizza",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 100
+        },
+        {
+            "Amount": 1,
+            "ClassName": "Raz_WolfSteakMeat_Pizza",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 100
+        },
+        {
+            "Amount": 1,
+            "ClassName": "Raz_GoatSteakMeat_Pizza",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 100
+        },
+        {
+            "Amount": 1,
+            "ClassName": "Raz_BearSteakMeat_Pizza",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 100
+        },
+        {
+            "Amount": 1,
+            "ClassName": "Raz_SheepSteakMeat_Pizza",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 100
+        },
+        {
+            "Amount": 1,
+            "ClassName": "Raz_DeerSteakMeat_Pizza",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 100
+        },
+        {
+            "Amount": 1,
+            "ClassName": "Raz_BoarSteakMeat_Pizza",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 100
+        },
+        {
+            "Amount": 1,
+            "ClassName": "Raz_CarpFilletMeat_Pizza",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 100
+        },
+        {
+            "Amount": 1,
+            "ClassName": "Raz_MackerelFilletMeat_Pizza",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 100
+        },
+        {
+            "Amount": 1,
+            "ClassName": "Raz_geb_CrayfishFilletMeat_Pizza",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 100
+        },
+        {
+            "Amount": 1,
+            "ClassName": "Raz_geb_NorthanpikeFilletMeat_Pizza",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 100
+        },
+        {
+            "Amount": 1,
+            "ClassName": "Raz_geb_LargemouthbassFilletMeat_Pizza",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 100
+        },
+        {
+            "Amount": 1,
+            "ClassName": "Raz_geb_WhitebassFilletMeat_Pizza",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 100
+        },
+        {
+            "Amount": 1,
+            "ClassName": "Raz_geb_BlackbassFilletMeat_Pizza",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 100
+        },
+        {
+            "Amount": 1,
+            "ClassName": "Raz_geb_TroutFilletMeat_Pizza",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 100
+        },
+        {
+            "Amount": 1,
+            "ClassName": "Raz_geb_BrownTroutFilletMeat_Pizza",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 100
+        },
+        {
+            "Amount": 1,
+            "ClassName": "Raz_geb_BrookTroutFilletMeat_Pizza",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 100
+        },
+        {
+            "Amount": 1,
+            "ClassName": "Raz_geb_LakeTroutFilletMeat_Pizza",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 100
+        },
+        {
+            "Amount": 1,
+            "ClassName": "Raz_geb_CutthroatTroutFilletMeat_Pizza",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 100
+        },
+        {
+            "Amount": 1,
+            "ClassName": "Raz_geb_PerchFilletMeat_Pizza",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 100
+        },
+        {
+            "Amount": 1,
+            "ClassName": "Raz_geb_CatfishFilletMeat_Pizza",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 100
+        },
+        {
+            "Amount": 1,
+            "ClassName": "Raz_geb_MinnowFilletMeat_Pizza",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 100
+        },
+        {
+            "Amount": 1,
+            "ClassName": "Raz_geb_BluegillFilletMeat_Pizza",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 100
+        },
+        {
+            "Amount": 1,
+            "ClassName": "Raz_geb_SaugerFilletMeat_Pizza",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 100
+        },
+        {
+            "Amount": 1,
+            "ClassName": "Raz_geb_BowfinFilletMeat_Pizza",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 100
+        },
+        {
+            "Amount": 1,
+            "ClassName": "Raz_geb_SlimysculpinFilletMeat_Pizza",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 100
+        },
+        {
+            "Amount": 1,
+            "ClassName": "Raz_geb_AngelfishFilletMeat_Pizza",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 100
+        },
+        {
+            "Amount": 1,
+            "ClassName": "Raz_geb_AsianseabassFilletMeat_Pizza",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 100
+        },
+        {
+            "Amount": 1,
+            "ClassName": "Raz_geb_BluemarlinFilletMeat_Pizza",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 100
+        },
+        {
+            "Amount": 1,
+            "ClassName": "Raz_geb_BonitaFilletMeat_Pizza",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 100
+        },
+        {
+            "Amount": 1,
+            "ClassName": "Raz_geb_CherrysalmonFilletMeat_Pizza",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 100
+        },
+        {
+            "Amount": 1,
+            "ClassName": "Raz_geb_FlatheadmulletFilletMeat_Pizza",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 100
+        },
+        {
+            "Amount": 1,
+            "ClassName": "Raz_geb_LeopardsharkFilletMeat_Pizza",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 100
+        },
+        {
+            "Amount": 1,
+            "ClassName": "Raz_geb_PacificcodFilletMeat_Pizza",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 100
+        },
+        {
+            "Amount": 1,
+            "ClassName": "Raz_geb_RedheadcichlidFilletMeat_Pizza",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 100
+        },
+        {
+            "Amount": 1,
+            "ClassName": "Raz_geb_RoughneckrockFilletMeat_Pizza",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 100
+        },
+        {
+            "Amount": 1,
+            "ClassName": "Raz_geb_SeverumFilletMeat_Pizza",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 100
+        },
+        {
+            "Amount": 1,
+            "ClassName": "Raz_geb_ShrimpFilletMeat_Pizza",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 100
+        },
+        {
+            "Amount": 1,
+            "ClassName": "Raz_geb_BluetangFilletMeat_Pizza",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 100
+        },
+        {
+            "Amount": 1,
+            "ClassName": "Raz_geb_HairtailfishFilletMeat_Pizza",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 100
+        },
+        {
+            "Amount": 1,
+            "ClassName": "Raz_geb_HumpheadwrasseFilletMeat_Pizza",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 100
+        },
+        {
+            "Amount": 1,
+            "ClassName": "Raz_geb_SiamesetigerfishFilletMeat_Pizza",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 100
+        },
+        {
+            "Amount": 1,
+            "ClassName": "Raz_geb_ClamFilletMeat_Pizza",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 100
+        },
+        {
+            "Amount": 1,
+            "ClassName": "Raz_geb_MusselFilletMeat_Pizza",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 100
+        },
+        {
+            "Amount": 1,
+            "ClassName": "Raz_geb_Blackdevilsnail_Pizza",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 100
+        },
+        {
+            "Amount": 1,
+            "ClassName": "Raz_geb_KingcrabFilletMeat_Pizza",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 100
+        },
+        {
+            "Amount": 1,
+            "ClassName": "Raz_geb_JellyfishFilletMeat_Pizza",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 100
+        },
+        {
+            "Amount": 1,
+            "ClassName": "Raz_geb_LobsterFilletMeat_Pizza",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 100
+        },
+        {
+            "Amount": 1,
+            "ClassName": "Raz_geb_GreatwhitesharkFilletMeat_Pizza",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 100
+        },
+        {
+            "Amount": 1,
+            "ClassName": "Raz_geb_AngelsharkFilletMeat_Pizza",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 100
+        },
+        {
+            "Amount": 1,
+            "ClassName": "Raz_geb_YellowfintunaFilletMeat_Pizza",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 100
+        }
+    ],
+    "ShowDistance": 1,
+    "AddItemsToNearbyMarketZone": 0,
+    "NeedAnyCollection": 1
+}

@@ -1,0 +1,43 @@
+{
+    "ConfigVersion": 28,
+    "ID": 99996,
+    "ObjectiveType": 4,
+    "ObjectiveText": "Bring Krusty a beige leather suit.",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Collections": [
+        {
+            "Amount": 1,
+            "ClassName": "LeatherGloves_Beige",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 100
+        },
+        {
+            "Amount": 1,
+            "ClassName": "LeatherHat_Beige",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 100
+        },
+        {
+            "Amount": 1,
+            "ClassName": "LeatherJacket_Beige",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 100
+        },
+        {
+            "Amount": 1,
+            "ClassName": "LeatherPants_Beige",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 100
+        },
+        {
+            "Amount": 1,
+            "ClassName": "LeatherShoes_Beige",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 100
+        }
+    ],
+    "ShowDistance": 1,
+    "AddItemsToNearbyMarketZone": 0,
+    "NeedAnyCollection": 0
+}

@@ -1,0 +1,19 @@
+{
+    "ConfigVersion": 28,
+    "ID": 6506,
+    "ObjectiveType": 4,
+    "ObjectiveText": "Bring Krusty 100,000 coins.",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Collections": [
+        {
+            "Amount": 10,
+            "ClassName": "rag_viking_coin_10000",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 50
+        }
+    ],
+    "ShowDistance": 1,
+    "AddItemsToNearbyMarketZone": 0,
+    "NeedAnyCollection": 0
+}

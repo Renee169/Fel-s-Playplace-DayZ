@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 513,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Locate the quest board.",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        9976.400390625,
+        288.1000061035156,
+        6042.89990234375
+    ],
+    "MaxDistance": 3.0,
+    "MarkerName": "Quest Board",
+    "ShowDistance": 0,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

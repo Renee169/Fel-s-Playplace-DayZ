@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 5999,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Find out how to enroll yourself in the fishing tournament.",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        12089.0,
+        4.050000190734863,
+        3434.60009765625
+    ],
+    "MaxDistance": 5.0,
+    "MarkerName": "Tournament Pavillion",
+    "ShowDistance": 0,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

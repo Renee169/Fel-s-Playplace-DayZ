@@ -1,0 +1,61 @@
+{
+    "ConfigVersion": 28,
+    "ID": 99991,
+    "ObjectiveType": 4,
+    "ObjectiveText": "Bring Krusty a cut gem.",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Collections": [
+        {
+            "Amount": 1,
+            "ClassName": "FreezeGem_Amethyst_Cut",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 100
+        },
+        {
+            "Amount": 1,
+            "ClassName": "FreezeGem_Jade_Cut",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 100
+        },
+        {
+            "Amount": 1,
+            "ClassName": "FreezeGem_Turquoise_Cut",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 100
+        },
+        {
+            "Amount": 1,
+            "ClassName": "FreezeGem_Ruby_Cut",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 100
+        },
+        {
+            "Amount": 1,
+            "ClassName": "FreezeGem_Iolite_Cut",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 100
+        },
+        {
+            "Amount": 1,
+            "ClassName": "FreezeGem_FancyColourDiamond_Cut",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 100
+        },
+        {
+            "Amount": 1,
+            "ClassName": "FreezeGem_Aquamarine_Cut",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 100
+        },
+        {
+            "Amount": 1,
+            "ClassName": "FreezeGem_Amber_Cut",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 100
+        }
+    ],
+    "ShowDistance": 1,
+    "AddItemsToNearbyMarketZone": 0,
+    "NeedAnyCollection": 1
+}

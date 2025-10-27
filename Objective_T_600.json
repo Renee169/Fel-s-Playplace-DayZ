@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 600,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Find the top of Green Mountain without dying.",
+    "TimeLimit": -1,
+    "Active": 0,
+    "Position": [
+        3720.3,
+        422.6,
+        5990.27
+    ],
+    "MaxDistance": 3.0,
+    "MarkerName": "Top",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

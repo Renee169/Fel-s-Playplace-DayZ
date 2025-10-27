@@ -1,0 +1,301 @@
+{
+    "ConfigVersion": 28,
+    "ID": 6001,
+    "ObjectiveType": 4,
+    "ObjectiveText": "Bring your extra fish to the Kamyshovo quest board.",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Collections": [
+        {
+            "Amount": 1,
+            "ClassName": "geb_Smallmouthbass",
+            "QuantityPercent": 0,
+            "MinQuantityPercent": 0
+        },
+        {
+            "Amount": 1,
+            "ClassName": "geb_Sunfish",
+            "QuantityPercent": 0,
+            "MinQuantityPercent": 0
+        },
+        {
+            "Amount": 1,
+            "ClassName": "geb_Walleye",
+            "QuantityPercent": 0,
+            "MinQuantityPercent": 0
+        },
+        {
+            "Amount": 1,
+            "ClassName": "geb_BrownTrout",
+            "QuantityPercent": 0,
+            "MinQuantityPercent": 0
+        },
+        {
+            "Amount": 1,
+            "ClassName": "geb_BrookTrout",
+            "QuantityPercent": 0,
+            "MinQuantityPercent": 0
+        },
+        {
+            "Amount": 1,
+            "ClassName": "geb_LakeTrout",
+            "QuantityPercent": 0,
+            "MinQuantityPercent": 0
+        },
+        {
+            "Amount": 1,
+            "ClassName": "geb_CutthroatTrout",
+            "QuantityPercent": 0,
+            "MinQuantityPercent": 0
+        },
+        {
+            "Amount": 1,
+            "ClassName": "geb_Crayfish",
+            "QuantityPercent": 0,
+            "MinQuantityPercent": 0
+        },
+        {
+            "Amount": 1,
+            "ClassName": "geb_Northernpike",
+            "QuantityPercent": 0,
+            "MinQuantityPercent": 0
+        },
+        {
+            "Amount": 1,
+            "ClassName": "geb_Largemouthbass",
+            "QuantityPercent": 0,
+            "MinQuantityPercent": 0
+        },
+        {
+            "Amount": 1,
+            "ClassName": "geb_Whitebass",
+            "QuantityPercent": 0,
+            "MinQuantityPercent": 0
+        },
+        {
+            "Amount": 1,
+            "ClassName": "geb_Blackbass",
+            "QuantityPercent": 0,
+            "MinQuantityPercent": 0
+        },
+        {
+            "Amount": 1,
+            "ClassName": "geb_Trout",
+            "QuantityPercent": 0,
+            "MinQuantityPercent": 0
+        },
+        {
+            "Amount": 1,
+            "ClassName": "geb_Perch",
+            "QuantityPercent": 0,
+            "MinQuantityPercent": 0
+        },
+        {
+            "Amount": 1,
+            "ClassName": "geb_Catfish",
+            "QuantityPercent": 0,
+            "MinQuantityPercent": 0
+        },
+        {
+            "Amount": 1,
+            "ClassName": "geb_Minnow",
+            "QuantityPercent": 0,
+            "MinQuantityPercent": 0
+        },
+        {
+            "Amount": 1,
+            "ClassName": "geb_Bluegill",
+            "QuantityPercent": 0,
+            "MinQuantityPercent": 0
+        },
+        {
+            "Amount": 1,
+            "ClassName": "geb_Sauger",
+            "QuantityPercent": 0,
+            "MinQuantityPercent": 0
+        },
+        {
+            "Amount": 1,
+            "ClassName": "geb_Bowfin",
+            "QuantityPercent": 0,
+            "MinQuantityPercent": 0
+        },
+        {
+            "Amount": 1,
+            "ClassName": "geb_Mussel",
+            "QuantityPercent": 0,
+            "MinQuantityPercent": 0
+        },
+        {
+            "Amount": 1,
+            "ClassName": "geb_Blackdevilsnail",
+            "QuantityPercent": 0,
+            "MinQuantityPercent": 0
+        },
+        {
+            "Amount": 1,
+            "ClassName": "geb_Slimysculpin",
+            "QuantityPercent": 0,
+            "MinQuantityPercent": 0
+        },
+        {
+            "Amount": 1,
+            "ClassName": "geb_Angelfish",
+            "QuantityPercent": 0,
+            "MinQuantityPercent": 0
+        },
+        {
+            "Amount": 1,
+            "ClassName": "geb_Asianseabass",
+            "QuantityPercent": 0,
+            "MinQuantityPercent": 0
+        },
+        {
+            "Amount": 1,
+            "ClassName": "geb_Bluemarlin",
+            "QuantityPercent": 0,
+            "MinQuantityPercent": 0
+        },
+        {
+            "Amount": 1,
+            "ClassName": "geb_Bonita",
+            "QuantityPercent": 0,
+            "MinQuantityPercent": 0
+        },
+        {
+            "Amount": 1,
+            "ClassName": "geb_Cherrysalmon",
+            "QuantityPercent": 0,
+            "MinQuantityPercent": 0
+        },
+        {
+            "Amount": 1,
+            "ClassName": "geb_Flatheadmullet",
+            "QuantityPercent": 0,
+            "MinQuantityPercent": 0
+        },
+        {
+            "Amount": 1,
+            "ClassName": "geb_Leopardshark",
+            "QuantityPercent": 0,
+            "MinQuantityPercent": 0
+        },
+        {
+            "Amount": 1,
+            "ClassName": "geb_Pacificcod",
+            "QuantityPercent": 0,
+            "MinQuantityPercent": 0
+        },
+        {
+            "Amount": 1,
+            "ClassName": "geb_Redheadcichlid",
+            "QuantityPercent": 0,
+            "MinQuantityPercent": 0
+        },
+        {
+            "Amount": 1,
+            "ClassName": "geb_Roughneckrock",
+            "QuantityPercent": 0,
+            "MinQuantityPercent": 0
+        },
+        {
+            "Amount": 1,
+            "ClassName": "geb_Severum",
+            "QuantityPercent": 0,
+            "MinQuantityPercent": 0
+        },
+        {
+            "Amount": 1,
+            "ClassName": "geb_Shrimp",
+            "QuantityPercent": 0,
+            "MinQuantityPercent": 0
+        },
+        {
+            "Amount": 1,
+            "ClassName": "geb_Bluetang",
+            "QuantityPercent": 0,
+            "MinQuantityPercent": 0
+        },
+        {
+            "Amount": 1,
+            "ClassName": "geb_Hairtailfish",
+            "QuantityPercent": 0,
+            "MinQuantityPercent": 0
+        },
+        {
+            "Amount": 1,
+            "ClassName": "geb_Humpheadwrasse",
+            "QuantityPercent": 0,
+            "MinQuantityPercent": 0
+        },
+        {
+            "Amount": 1,
+            "ClassName": "geb_Siamesetigerfish",
+            "QuantityPercent": 0,
+            "MinQuantityPercent": 0
+        },
+        {
+            "Amount": 1,
+            "ClassName": "geb_Mahimahi",
+            "QuantityPercent": 0,
+            "MinQuantityPercent": 0
+        },
+        {
+            "Amount": 1,
+            "ClassName": "geb_Sailfish",
+            "QuantityPercent": 0,
+            "MinQuantityPercent": 0
+        },
+        {
+            "Amount": 1,
+            "ClassName": "geb_Starfish",
+            "QuantityPercent": 0,
+            "MinQuantityPercent": 0
+        },
+        {
+            "Amount": 1,
+            "ClassName": "geb_Kingcrab",
+            "QuantityPercent": 0,
+            "MinQuantityPercent": 0
+        },
+        {
+            "Amount": 1,
+            "ClassName": "geb_Jellyfish",
+            "QuantityPercent": 0,
+            "MinQuantityPercent": 0
+        },
+        {
+            "Amount": 1,
+            "ClassName": "geb_Lobster",
+            "QuantityPercent": 0,
+            "MinQuantityPercent": 0
+        },
+        {
+            "Amount": 1,
+            "ClassName": "geb_BlueLobster",
+            "QuantityPercent": 0,
+            "MinQuantityPercent": 0
+        },
+        {
+            "Amount": 1,
+            "ClassName": "geb_Greatwhiteshark",
+            "QuantityPercent": 0,
+            "MinQuantityPercent": 0
+        },
+        {
+            "Amount": 1,
+            "ClassName": "geb_Angelshark",
+            "QuantityPercent": 0,
+            "MinQuantityPercent": 0
+        },
+        {
+            "Amount": 1,
+            "ClassName": "geb_Yellowfintuna",
+            "QuantityPercent": 0,
+            "MinQuantityPercent": 0
+        }
+    ],
+    "ShowDistance": 1,
+    "AddItemsToNearbyMarketZone": 0,
+    "NeedAnyCollection": 1
+}

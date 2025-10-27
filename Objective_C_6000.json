@@ -1,0 +1,49 @@
+{
+    "ConfigVersion": 28,
+    "ID": 6000,
+    "ObjectiveType": 4,
+    "ObjectiveText": "Catch one of the following rare saltwater fish: Blue Marlin, Leopard Shark, Jellyfish, Angel Shark, Sail Fish, or Great White Shark. If you die you forfeit your place in the tournament.",
+    "TimeLimit": 2400,
+    "Active": 1,
+    "Collections": [
+        {
+            "Amount": 1,
+            "ClassName": "geb_Bluemarlin",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 100
+        },
+        {
+            "Amount": 1,
+            "ClassName": "geb_Leopardshark",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 100
+        },
+        {
+            "Amount": 1,
+            "ClassName": "geb_Sailfish",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 100
+        },
+        {
+            "Amount": 1,
+            "ClassName": "geb_Jellyfish",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 100
+        },
+        {
+            "Amount": 1,
+            "ClassName": "geb_Greatwhiteshark",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 100
+        },
+        {
+            "Amount": 1,
+            "ClassName": "geb_Angelshark",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 100
+        }
+    ],
+    "ShowDistance": 1,
+    "AddItemsToNearbyMarketZone": 0,
+    "NeedAnyCollection": 1
+}

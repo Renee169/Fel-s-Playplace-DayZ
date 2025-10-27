@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 8002,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Find the entrance to the Overlook",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        4528.97021484375,
+        350.7170104980469,
+        14486.08984375
+    ],
+    "MaxDistance": 5.0,
+    "MarkerName": "The Overlook",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

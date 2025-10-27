@@ -1,0 +1,26 @@
+{
+    "ConfigVersion": 28,
+    "ID": 711,
+    "ObjectiveType": 2,
+    "ObjectiveText": "Kill the Dark Master!",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        6000.0,
+        0.0,
+        6000.0
+    ],
+    "MaxDistance": 10000.0,
+    "MinDistance": -1.0,
+    "Amount": 1,
+    "ClassNames": [
+        "ZmbM_DH_Master_Night",
+        "ZmbM_DH_Master_Day"
+    ],
+    "CountSelfKill": 0,
+    "AllowedWeapons": [],
+    "ExcludedClassNames": [],
+    "CountAIPlayers": 0,
+    "AllowedTargetFactions": [],
+    "AllowedDamageZones": []
+}

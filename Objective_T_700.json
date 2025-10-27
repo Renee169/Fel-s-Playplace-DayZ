@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 700,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Reach the marker without dying!",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        12888.5,
+        7.349999904632568,
+        10140.599609375
+    ],
+    "MaxDistance": 3.0,
+    "MarkerName": "Marker",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

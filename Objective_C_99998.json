@@ -1,0 +1,31 @@
+{
+    "ConfigVersion": 28,
+    "ID": 99998,
+    "ObjectiveType": 4,
+    "ObjectiveText": "Bring a pack of cigs to Krusty.",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Collections": [
+        {
+            "Amount": 1,
+            "ClassName": "CigarettePack_Chernamorka",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 100
+        },
+        {
+            "Amount": 1,
+            "ClassName": "CigarettePack_Merkur",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 100
+        },
+        {
+            "Amount": 1,
+            "ClassName": "CigarettePack_Partyzanka",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 100
+        }
+    ],
+    "ShowDistance": 1,
+    "AddItemsToNearbyMarketZone": 0,
+    "NeedAnyCollection": 1
+}

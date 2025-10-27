@@ -1,0 +1,67 @@
+{
+    "ConfigVersion": 28,
+    "ID": 99999,
+    "ObjectiveType": 4,
+    "ObjectiveText": "Get some good stuff.",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Collections": [
+        {
+            "Amount": 1,
+            "ClassName": "DP_CocaBrick",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 0
+        },
+        {
+            "Amount": 1,
+            "ClassName": "CP_CannabisBrickBlue",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 0
+        },
+        {
+            "Amount": 1,
+            "ClassName": "CP_CannabisBrickKush",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 0
+        },
+        {
+            "Amount": 1,
+            "ClassName": "CP_CannabisBrickStardawg",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 0
+        },
+        {
+            "Amount": 1,
+            "ClassName": "CP_CannabisBrickFuture",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 0
+        },
+        {
+            "Amount": 1,
+            "ClassName": "CP_CannabisBrickS1",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 0
+        },
+        {
+            "Amount": 1,
+            "ClassName": "CP_CannabisBrickBlackFrost",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 0
+        },
+        {
+            "Amount": 1,
+            "ClassName": "CP_CannabisBrickNomad",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 0
+        },
+        {
+            "Amount": 1,
+            "ClassName": "CP_CannabisBrickSkunk",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 0
+        }
+    ],
+    "ShowDistance": 1,
+    "AddItemsToNearbyMarketZone": 0,
+    "NeedAnyCollection": 1
+}

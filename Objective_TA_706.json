@@ -1,0 +1,25 @@
+{
+    "ConfigVersion": 28,
+    "ID": 706,
+    "ObjectiveType": 2,
+    "ObjectiveText": "Kill a Black Killer Bear!",
+    "TimeLimit": -1,
+    "Active": 0,
+    "Position": [
+        6000.0,
+        0.0,
+        6000.0
+    ],
+    "MaxDistance": 10000,
+    "MinDistance": -1.0,
+	"Amount": 1,
+	"ClassNames": [
+		"bear_killerblack"
+	],
+	"CountSelfKill": 0,
+	"AllowedWeapons": [],
+	"ExcludedClassNames": [],
+	"CountAIPlayers": 0,
+    "AllowedTargetFactions": [],
+    "AllowedDamageZones": []
+}

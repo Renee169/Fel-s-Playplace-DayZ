@@ -1,0 +1,23 @@
+{
+    "ConfigVersion": 28,
+    "ID": 1001,
+    "ObjectiveType": 10,
+    "ObjectiveText": "Plant a cannabis garden.",
+    "TimeLimit": -1,
+    "Active": 1,
+    "ActionNames": [
+        "ActionPlantSeed"
+    ],
+    "AllowedClassNames": [
+        "CP_CannabisSeedsSkunk",
+        "CP_CannabisSeedsBlue",
+        "CP_CannabisSeedsKush",
+        "CP_CannabisSeedsStardawg",
+        "CP_CannabisSeedsFuture",
+        "CP_CannabisSeedsS1",
+        "CP_CannabisSeedsNomad",
+        "CP_CannabisSeedsBlackFrost"
+    ],
+    "ExcludedClassNames": [],
+    "ExecutionAmount": 9
+}

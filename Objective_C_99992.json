@@ -1,0 +1,43 @@
+{
+    "ConfigVersion": 28,
+    "ID": 99992,
+    "ObjectiveType": 4,
+    "ObjectiveText": "Bring Krusty a bushel of veggies.",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Collections": [
+        {
+            "Amount": 100,
+            "ClassName": "Tomato",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 100
+        },
+        {
+            "Amount": 60,
+            "ClassName": "GreenBellPepper",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 100
+        },
+        {
+            "Amount": 60,
+            "ClassName": "PotatoSeed",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 100
+        },
+        {
+            "Amount": 45,
+            "ClassName": "Zucchini",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 100
+        },
+        {
+            "Amount": 30,
+            "ClassName": "Pumpkin",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 100
+        }
+    ],
+    "ShowDistance": 1,
+    "AddItemsToNearbyMarketZone": 0,
+    "NeedAnyCollection": 1
+}

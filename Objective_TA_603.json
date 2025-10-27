@@ -1,0 +1,28 @@
+{
+    "ConfigVersion": 28,
+    "ID": 603,
+    "ObjectiveType": 2,
+    "ObjectiveText": "Kill a Wolf!",
+    "TimeLimit": -1,
+    "Active": 0,
+    "Position": [
+        6000.0,
+        0.0,
+        6000.0
+    ],
+    "MaxDistance": 10000,
+    "MinDistance": -1.0,
+	"Amount": 1,
+	"ClassNames": [
+		"Animal_CanisLupus_Grey",
+		"Animal_CanisLupus_White",
+		"wolf_ghosthound",
+		"wolf_hellhound"
+	],
+	"CountSelfKill": 0,
+	"AllowedWeapons": [],
+	"ExcludedClassNames": [],
+	"CountAIPlayers": 0,
+    "AllowedTargetFactions": [],
+    "AllowedDamageZones": []
+}

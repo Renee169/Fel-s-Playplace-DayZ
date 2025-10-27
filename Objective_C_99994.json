@@ -1,0 +1,73 @@
+{
+    "ConfigVersion": 28,
+    "ID": 99994,
+    "ObjectiveType": 4,
+    "ObjectiveText": "Bring Krusty some canned meat.",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Collections": [
+        {
+            "Amount": 5,
+            "ClassName": "ANFood_MeatDeer",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 100
+        },
+        {
+            "Amount": 5,
+            "ClassName": "ANFood_MeatPig",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 100
+        },
+        {
+            "Amount": 5,
+            "ClassName": "ANFood_MeatWolf",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 100
+        },
+        {
+            "Amount": 5,
+            "ClassName": "ANFood_MeatBear",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 100
+        },
+        {
+            "Amount": 5,
+            "ClassName": "ANFood_MeatCow",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 100
+        },
+        {
+            "Amount": 5,
+            "ClassName": "ANFood_MeatSheep",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 100
+        },
+        {
+            "Amount": 5,
+            "ClassName": "ANFood_MeatChicken",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 100
+        },
+        {
+            "Amount": 5,
+            "ClassName": "ANFood_MeatRabbit",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 100
+        },
+        {
+            "Amount": 5,
+            "ClassName": "ANFood_MeatCarp",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 100
+        },
+        {
+            "Amount": 5,
+            "ClassName": "ANFood_MeatMackerel",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 100
+        }
+    ],
+    "ShowDistance": 1,
+    "AddItemsToNearbyMarketZone": 0,
+    "NeedAnyCollection": 1
+}

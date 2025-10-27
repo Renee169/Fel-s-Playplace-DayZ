@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 500,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Find Dr Krustysov.",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        2736.64990234375,
+        2.442150115966797,
+        1509.6500244140626
+    ],
+    "MaxDistance": 3.0,
+    "MarkerName": "Dr Krustysov",
+    "ShowDistance": 0,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

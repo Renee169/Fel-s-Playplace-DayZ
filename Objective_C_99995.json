@@ -1,0 +1,43 @@
+{
+    "ConfigVersion": 28,
+    "ID": 99995,
+    "ObjectiveType": 4,
+    "ObjectiveText": "Bring Krusty proofs of spider squishing.",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Collections": [
+        {
+            "Amount": 8,
+            "ClassName": "legspear",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 100
+        },
+        {
+            "Amount": 5,
+            "ClassName": "fangknife",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 100
+        },
+        {
+            "Amount": 10,
+            "ClassName": "SpiderMeat",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 100
+        },
+        {
+            "Amount": 5,
+            "ClassName": "SpiderMeatB",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 100
+        },
+        {
+            "Amount": 1,
+            "ClassName": "SpiderEgg",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 100
+        }
+    ],
+    "ShowDistance": 1,
+    "AddItemsToNearbyMarketZone": 0,
+    "NeedAnyCollection": 1
+}

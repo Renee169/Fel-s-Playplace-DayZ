@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 8001,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Find the entrance to Krona Castle.",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        1487.800048828125,
+        297.6499938964844,
+        9200.83984375
+    ],
+    "MaxDistance": 5.0,
+    "MarkerName": "Krona Castle",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

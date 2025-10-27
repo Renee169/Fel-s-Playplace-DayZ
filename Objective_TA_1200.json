@@ -1,0 +1,28 @@
+{
+    "ConfigVersion": 28,
+    "ID": 1200,
+    "ObjectiveType": 2,
+    "ObjectiveText": "Kill a male and female deer, a White Stag, and a Golden Hind!",
+    "TimeLimit": -1,
+    "Active": 0,
+    "Position": [
+        6000.0,
+        0.0,
+        6000.0
+    ],
+    "MaxDistance": 10000,
+    "MinDistance": -1.0,
+	"Amount": 1,
+	"ClassNames": [
+		"deer_whitestag",
+		"Animal_CervusElaphus",
+		"Animal_CervusElaphusF",
+		"deer_goldenhind"
+	],
+	"CountSelfKill": 0,
+	"AllowedWeapons": [],
+	"ExcludedClassNames": [],
+	"CountAIPlayers": 0,
+    "AllowedTargetFactions": [],
+    "AllowedDamageZones": []
+}
