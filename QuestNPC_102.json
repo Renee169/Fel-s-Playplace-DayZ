@@ -1,0 +1,28 @@
+{
+    "ConfigVersion": 6,
+    "ID": 102,
+    "ClassName": "ExpansionQuestBoardLarge",
+    "Position": [
+        9976.4,
+        288.1,
+        6042.9
+    ],
+    "Orientation": [
+        70.0,
+        0.0,
+        0.0
+    ],
+    "NPCName": "Bobbo's Bucket List",
+    "DefaultNPCText": "Bobbo has not added any list items today.",
+    "Waypoints": [],
+    "NPCEmoteID": 46,
+    "NPCEmoteIsStatic": 0,
+    "NPCLoadoutFile": "",
+    "NPCInteractionEmoteID": 1,
+    "NPCQuestCancelEmoteID": 60,
+    "NPCQuestStartEmoteID": 58,
+    "NPCQuestCompleteEmoteID": 39,
+    "NPCFaction": "InvincibleObservers",
+    "NPCType": 1,
+    "Active": 1
+}

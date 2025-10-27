@@ -1,0 +1,28 @@
+{
+    "ConfigVersion": 6,
+    "ID": 207,
+    "ClassName": "ExpansionQuestObjectLocker",
+    "Position": [
+        13976.8,
+        18.94,
+        13266.3
+    ],
+    "Orientation": [
+        -55.0,
+        0.0,
+        0.0
+    ],
+    "NPCName": "Package Receptacle",
+    "DefaultNPCText": "Packages Only",
+    "Waypoints": [],
+    "NPCEmoteID": 46,
+    "NPCEmoteIsStatic": 0,
+    "NPCLoadoutFile": "",
+    "NPCInteractionEmoteID": 1,
+    "NPCQuestCancelEmoteID": 60,
+    "NPCQuestStartEmoteID": 58,
+    "NPCQuestCompleteEmoteID": 39,
+    "NPCFaction": "InvincibleObservers",
+    "NPCType": 1,
+    "Active": 1
+}
